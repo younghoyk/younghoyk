@@ -40,23 +40,33 @@
 - **2026.01** &nbsp; CES 2026 Tech Trends Analysis (Las Vegas, USA) - *Field Research*
 
 ### 2025
-- **2025.02 ~** &nbsp; Undergraduate Researcher at **SELab** (Software Engineering Lab)
-- **2025.01 ~ 02** &nbsp; **THU** (Germany) AI Winter School & Project - *AICOSS Scholar*
-- **2025.11** &nbsp; **Minister of Education Award (Grand Prize)** - *Multi-modal Emotion AI Agent*
 - **2025.12** &nbsp; Patent Pending (Emotional Incongruity Detection)
+- **2025.11** &nbsp; **Minister of Education Award (Grand Prize)** - *AICOSS Project*
+    - *Topic: Creative Art Generation Service utilizing LoRA & Diffusion Models (2025.07 ~ 2025.11)*
+- **2025.09 ~ 2025.12** &nbsp; **MedCheck Project**
+    - *Drug-Food interaction analysis agent based on LLM & Knowledge Graph*
+- **2025.02 ~ Present** &nbsp; Undergraduate Researcher at **SELab** (Software Engineering Lab)
+- **2025.01 ~ 02** &nbsp; **THU** (Germany) AI Winter School & Project - *AICOSS Scholar*
 
 ### 2023 - 2024
+- **2024.08 ~ Present** &nbsp; **Aloc** (Algorithm Club) Core Member & Study Lead
 - **2023.08 ~ 2024.02** &nbsp; **IH London** (UK) Intensive English Programme
-- **2024.03 ~ Present** &nbsp; **Aloc** (Algorithm Club) Core Member & Study Lead
 
 <br>
 <br>
 
 ## 💻 What I’m Working On
 
-- **MedCheck:** Drug-Food interaction analysis agent based on LLM.
 - **AWS SAA:** Preparing for Solutions Architect Associate certification.
 - **Algorithm:** Solving BOJ problems weekly with 'Aloc'.
 
 <br>
+<br>
+
+## 📊 Stats
+
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ho20020109" width="100%">
+</div>
+
 <br>
