@@ -9,8 +9,8 @@
 
   <br>
 
-  <a href="mailto:netface12347@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:netface12347@gmail.com"/></a>
-  <a href="https://www.linkedin.com/in/youngho-yoo-020109dasd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:netface12347@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/youngho-yoo-020109dasd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
@@ -19,60 +19,44 @@
 
 ## 🛠 Tech Stack
 
-<br>
-
 ### **Languages**
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-
-<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 
 ### **AI & ML**
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logo=openai&logoColor=white"/>
-
-<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 
 ### **Backend & Infra**
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-
-<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
 
 ### **Tools**
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 <br>
 <br>
-<br>
 
-## 🚀 Highlights
+## 📜 History
 
-<br>
+### 2026
+- **2026.01** &nbsp; CES 2026 Tech Trends Analysis (Las Vegas, USA) - *Field Research*
 
-- 🏆 **2025 Minister of Education Award (Grand Prize)**
-  - Developed Multi-modal Emotion AI Agent.
-<br>
+### 2025
+- **2025.02 ~** &nbsp; Undergraduate Researcher at **SELab** (Software Engineering Lab)
+- **2025.01 ~ 02** &nbsp; **THU** (Germany) AI Winter School & Project - *AICOSS Scholar*
+- **2025.11** &nbsp; **Minister of Education Award (Grand Prize)** - *Multi-modal Emotion AI Agent*
+- **2025.12** &nbsp; Patent Pending (Emotional Incongruity Detection)
 
-- ✈️ **CES 2026 Trends Analysis**
-  - Conducted field research on On-Device AI & Robotics in Las Vegas.
-<br>
+### 2023 - 2024
+- **2023.08 ~ 2024.02** &nbsp; **IH London** (UK) Intensive English Programme
+- **2024.03 ~ Present** &nbsp; **Aloc** (Algorithm Club) Core Member & Study Lead
 
-- 🇩🇪 **Global AI Project (Germany)**
-  - Built RAG System at Technische Hochschule Ulm (AICOSS Scholar).
-
-<br>
 <br>
 <br>
 
 ## 💻 What I’m Working On
 
-<br>
-
 - **MedCheck:** Drug-Food interaction analysis agent based on LLM.
-<br>
-
-- **AWS Solutions Architect Associate:** Preparing for certification to enhance cloud architecture skills.
-<br>
-
-- **Algorithm Study:** Active member of 'Aloc' (Algorithm Club).
+- **AWS SAA:** Preparing for Solutions Architect Associate certification.
+- **Algorithm:** Solving BOJ problems weekly with 'Aloc'.
 
 <br>
 <br>
