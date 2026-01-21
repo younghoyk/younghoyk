@@ -5,7 +5,7 @@
   <br>
 
   ### **"Bridging the gap between AI Models and Real-world Applications"**
-  클라우드 인프라 위에서 살아 숨 쉬는 **AI 에이전트**를 개발하는 엔지니어입니다.
+  클라우드와 AI에 관심이 많은 대학생입니다.
 
   <br>
 
@@ -41,24 +41,18 @@
 
 ### 2025
 - **2025.12** &nbsp; Patent Pending (Emotional Incongruity Detection)
-- **2025.11** &nbsp; **Minister of Education Award (Grand Prize)** - *AICOSS Project*
+- **2025.12** &nbsp; **Minister of Education Award (Grand Prize)** - *AICOSS Project*
     - *Topic: Creative Art Generation Service utilizing LoRA & Diffusion Models (2025.07 ~ 2025.11)*
 - **2025.09 ~ 2025.12** &nbsp; **MedCheck Project**
-    - *Drug-Food interaction analysis agent based on LLM & Knowledge Graph*
+    - *Drug-Food interaction analysis agent based on LLM*
 - **2025.02 ~ Present** &nbsp; Undergraduate Researcher at **SELab** (Software Engineering Lab)
-- **2025.01 ~ 02** &nbsp; **THU** (Germany) AI Winter School & Project - *AICOSS Scholar*
+- **2025.01 ~ 02** &nbsp; **THU** (Germany) AI Winter School (4 Weeks) - *AICOSS Project*
 
-### 2023 - 2024
+### 2021 - 2024
 - **2024.08 ~ Present** &nbsp; **Aloc** (Algorithm Club) Core Member & Study Lead
 - **2023.08 ~ 2024.02** &nbsp; **IH London** (UK) Intensive English Programme
-
-<br>
-<br>
-
-## 💻 What I’m Working On
-
-- **AWS SAA:** Preparing for Solutions Architect Associate certification.
-- **Algorithm:** Solving BOJ problems weekly with 'Aloc'.
+- **2022.02 ~ 2023.08** &nbsp; Military Service (Republic of Korea Army)
+- **2021.03** &nbsp; Entered **University of Seoul** (Dept. of Computer Science)
 
 <br>
 <br>
