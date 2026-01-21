@@ -1,15 +1,14 @@
 <div align="center">
 
-  ## 👋 Hi, I'm YoungHo Yoo
+  ## 👋 Hi, I'm Youngho Yoo
 
   **"Bridging the gap between AI Models and Real-world Applications"** <br>
   클라우드 인프라 위에서 살아 숨 쉬는 **AI 에이전트**를 개발하는 엔지니어입니다.
 
   <br>
 
-  <a href="mailto:본인이메일@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:본인이메일@gmail.com"/></a>
-  <a href="https://www.linkedin.com/in/본인ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://velog.io/@본인ID"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="mailto:netface12347@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:본인이메일@gmail.com"/></a>
+  <a href="https://www.linkedin.com/in/youngho-yoo-020109dasd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
@@ -46,31 +45,22 @@
 
 - 🏆 **2025 Minister of Education Award (Grand Prize)** : Developed Multi-modal Emotion AI Agent.
 - ✈️ **CES 2026 Trends Analysis** : Conducted field research on On-Device AI & Robotics in Las Vegas.
-- 🧪 **Patent Pending** : "Method for Detecting Emotional Incongruity using Multi-modal AI".
 - 🇩🇪 **Global AI Project (Germany)** : Built RAG System at Technische Hochschule Ulm (AICOSS Scholar).
 
 <br>
 
 ### 💻 What I’m Working On
 
-- **MedCheck:** Drug-Food interaction analysis agent based on LLM & Knowledge Graph.
+- **MedCheck:** Drug-Food interaction analysis agent based on LLM.
 - **AWS Solutions Architect Associate:** Preparing for certification to enhance cloud architecture skills.
-- **Algorithm Study:** Active member of 'Aloc' (Algorithm Club), solving BOJ problems weekly.
+- **Algorithm Study:** Active member of 'Aloc' (Algorithm Club).
 
-<br>
-
-### 📝 Posts
-
-- [CES 2026 참관기: 라스베이거스에서 본 AI의 미래](본인블로그링크)
-- [FastAPI로 AI 모델 서빙하기: 트러블 슈팅 로그](본인블로그링크)
-
-<br>
 
 ### 🔥 Stats
 
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=your_id" width="100%">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ho020109" width="100%">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_id&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=younghoyk&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_id&layout=compact&theme=radical" width="48%">
 </div>
