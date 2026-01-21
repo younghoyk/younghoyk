@@ -38,7 +38,8 @@
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 <br>
 
 ### 🚀 Highlights
@@ -54,13 +55,3 @@
 - **MedCheck:** Drug-Food interaction analysis agent based on LLM.
 - **AWS Solutions Architect Associate:** Preparing for certification to enhance cloud architecture skills.
 - **Algorithm Study:** Active member of 'Aloc' (Algorithm Club).
-
-
-### 🔥 Stats
-
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ho020109" width="100%">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=younghoyk&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_id&layout=compact&theme=radical" width="48%">
-</div>
