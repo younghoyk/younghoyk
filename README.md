@@ -64,12 +64,5 @@
 - **2021.03** &nbsp; Entered **University of Seoul** (Dept. of Computer Science)
 
 <br>
-<br>
-
-## 📊 Stats
-
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ho20020109" width="100%">
-</div>
 
 <br>
