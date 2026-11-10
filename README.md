@@ -33,10 +33,12 @@
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" height="50"/>&nbsp;
 <img src="https://img.shields.io/badge/ComfyUI-000000?style=for-the-badge&logoColor=white" height="50"/>
 
-### **Backend & Infra**
+### **Backend**
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" height="50"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" height="50"/>&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="50"/>&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="50"/>
+
+### **Infra**
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" height="50"/>&nbsp;
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" height="50"/>&nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" height="50"/>&nbsp;
@@ -58,11 +60,11 @@
 ## 📜 History
 
 ### 2026
-- **2026.10** &nbsp; **[MRO Agent](https://github.com/mro-agent-proj)** - *Aircraft Maintenance Request AI Agent · Project Leader*
-    - *Recommends & assigns maintenance teams with evidence from 71,741 FAA SDR cases; auto-assigns only when cited evidence is verified (LangGraph, MCP, pgvector, Spring Boot, Vue 3, AWS ECS)*
 - **2026.08** &nbsp; **Social Impact Hackathon** - *Silver Bridge ([Backend](https://github.com/younghoyk/social_impact) · [Dashboard](https://github.com/younghoyk/social_impact_dashboard))* <!-- TODO: 해커톤 정식 명칭/수상 여부 -->
     - *Voice & phone-based autonomous welfare agent for seniors living alone (FastAPI, LangGraph, pgvector RAG, Twilio, Streamlit)*
 - **2026.07 ~ Present** &nbsp; **SKALA** (SK AX AI Leader Academy) <!-- TODO: 과정명 확인 -->
+    - **2026.10** &nbsp; **[MRO Agent](https://github.com/mro-agent-proj)** - *Aircraft Maintenance Request AI Agent · Project Leader*
+        - *Recommends & assigns maintenance teams with evidence from 71,741 FAA SDR cases; auto-assigns only when cited evidence is verified (LangGraph, MCP, pgvector, Spring Boot, Vue 3, AWS ECS)*
     - *[Skala Pulse](https://github.com/younghoyk/skala-pulse): Feedback & root-cause diagnosis service for SKALA (Vue3 + Spring Boot)*
 - **2026.01** &nbsp; CES 2026 Tech Trends Analysis (Las Vegas, USA) - *Field Research*
 
