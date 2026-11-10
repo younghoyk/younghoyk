@@ -58,12 +58,12 @@
 ## 📜 History
 
 ### 2026
+- **2026.10** &nbsp; **[MRO Agent](https://github.com/mro-agent-proj)** - *Aircraft Maintenance Request AI Agent · Project Leader*
+    - *Recommends & assigns maintenance teams with evidence from 71,741 FAA SDR cases; auto-assigns only when cited evidence is verified (LangGraph, MCP, pgvector, Spring Boot, Vue 3, AWS ECS)*
+- **2026.08** &nbsp; **Social Impact Hackathon** - *Silver Bridge ([Backend](https://github.com/younghoyk/social_impact) · [Dashboard](https://github.com/younghoyk/social_impact_dashboard))* <!-- TODO: 해커톤 정식 명칭/수상 여부 -->
+    - *Voice & phone-based autonomous welfare agent for seniors living alone (FastAPI, LangGraph, pgvector RAG, Twilio, Streamlit)*
 - **2026.07 ~ Present** &nbsp; **SKALA** (SK AX AI Leader Academy) <!-- TODO: 과정명 확인 -->
     - *[Skala Pulse](https://github.com/younghoyk/skala-pulse): Feedback & root-cause diagnosis service for SKALA (Vue3 + Spring Boot)*
-- **2026.10** &nbsp; **[MRO Agent](https://github.com/mro-agent-proj)** - *Aircraft Maintenance Request AI Agent* <!-- TODO: 본인 역할 -->
-    - *Recommends & assigns maintenance teams with evidence from 71,741 FAA SDR cases; auto-assigns only when cited evidence is verified (LangGraph, MCP, pgvector, Spring Boot, Vue 3, AWS ECS)*
-- **2026.08** &nbsp; **Social Impact Hackathon** - *[Silver Bridge](https://github.com/younghoyk/social_impact)* <!-- TODO: 해커톤 정식 명칭/수상 여부 -->
-    - *Voice & phone-based autonomous welfare agent for seniors living alone (FastAPI, LangGraph, pgvector RAG, Twilio)*
 - **2026.01** &nbsp; CES 2026 Tech Trends Analysis (Las Vegas, USA) - *Field Research*
 
 ### 2025
@@ -72,13 +72,13 @@
     - *Topic: Creative Art Generation Service utilizing LoRA & Diffusion Models (2025.07 ~ 2025.11)*
 - **2025.09 ~ 2025.12** &nbsp; **[MedCheck Project](https://github.com/Med-Check)**
     - *Drug-Food interaction analysis agent based on LLM*
-- **2025.02 ~ Present** &nbsp; Undergraduate Researcher at **SELab** (Software Engineering Lab)
+- **2025.02 ~ 2026.03** &nbsp; Undergraduate Researcher at **SELab** (Software Engineering Lab)
 - **2025.01 ~ 02** &nbsp; **THU** (Germany) AI Winter School (4 Weeks) - *AICOSS Project*
 
 ### 2021 - 2024
-- **2024.08 ~ Present** &nbsp; **[Aloc](https://github.com/ALOC-dev)** (Algorithm Club) Core Member & Study Lead
+- **2024.08 ~ 2026.07** &nbsp; **Aloc** (Algorithm Club) Core Member & Study Lead
 - **2023.08 ~ 2024.02** &nbsp; **IH London** (UK) Intensive English Programme
 - **2022.02 ~ 2023.08** &nbsp; Military Service (Republic of Korea Army)
-- **2021.03** &nbsp; Entered **University of Seoul** (Dept. of Computer Science)
+- **2021.03** &nbsp; Entered University (Dept. of Computer Science)
 
 <br>
