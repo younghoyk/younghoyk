@@ -58,7 +58,7 @@
 ## 📜 History
 
 ### 2026
-- **2026.0X ~ Present** &nbsp; **SKALA** (SK AX AI Leader Academy) <!-- TODO: 기간/과정명 확인 -->
+- **2026.07 ~ Present** &nbsp; **SKALA** (SK AX AI Leader Academy) <!-- TODO: 과정명 확인 -->
     - *[Skala Pulse](https://github.com/younghoyk/skala-pulse): Feedback & root-cause diagnosis service for SKALA (Vue3 + Spring Boot)*
 - **2026.10** &nbsp; **[MRO Agent](https://github.com/mro-agent-proj)** - *Aircraft Maintenance Request AI Agent* <!-- TODO: 본인 역할 -->
     - *Recommends & assigns maintenance teams with evidence from 71,741 FAA SDR cases; auto-assigns only when cited evidence is verified (LangGraph, MCP, pgvector, Spring Boot, Vue 3, AWS ECS)*
